@@ -44,13 +44,13 @@ datos_limpio.sample(5)
 
 ## Conclusiones e Insights
 
-- Alrededor de 73% representa la cantidad de clientes que se ha quedado en el servicio (Figura 1).  
-- La distribución de clientes que permanecen y se van se divide equitativamente según género (Figura 2).  
-- La mayoría de clientes son mes a mes, y en este grupo se observa la mayor tasa de evasión. En contraste, los contratos a un año o dos años tienen menor churn (Figura 3).  
-- En el cruce entre métodos de pago y churn, se observa que la mayoría de los clientes que se van usan electronic check (Figura 4).  
-- Los clientes que permanecen generan la mayor parte de los ingresos (~80%) (Figura 6).  
-- Existe una diferencia notable en la evasión según tipo de contrato y métodos de pago (Figuras 3 y 4).  
-- Los clientes con ciertos tipos de contrato o sin servicios adicionales tienen mayor probabilidad de churn (Figura 3).
+- Alrededor de 73% representa la cantidad de clientes que se ha quedado en el servicio, de acuerdo al gráfico de Distribución de churn en general [Ir a Figura 1](#fig1) .
+- La distribución de cliente que permanece y no pertenece se dividen equitativamente frente al género (la mitad con varones, la mitad son mujeres)[Ir a Figura 2](#fig2).
+- La mayoría de cliente son mes a mes, sin embargo de aqui también se puede ver la gran mayoría de clientes que se van. Y se puede ver que los otros tipos de contratos los clientes no se van (se puede explicar por el largo plazo de los contratos)[Ir a Figura 3](#fig3).
+- Respecto al cruce entre métodos de pago versus los que permanecen y se van, podemos ver una gram mayoría de los que se van son de método electronic check [Ir a Figura 4](#fig4) .
+- La mayoría de los clientes que permanecen generan la mayor parte de los ingresos [Ir a Figura 6](#fig5) .
+- Existe una diferencia notable en la evasión según el tipo de contrato/métodos de pago [Ir a Figura 3](#fig3) [Ir a Figura 4](#fig4) .
+- Por lo tanto los clientes con ciertos tipos de contrato o sin servicios adicionales tienen mayor probabilidad de churn [Ir a Figura 3](#fig3) .
 
 ---
 
