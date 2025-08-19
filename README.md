@@ -26,13 +26,19 @@ datos_limpio.sample(5)
 ![Figura 1: Distribución de la evasión](https://raw.githubusercontent.com/d4vid2025/challenge2-data-science-LATAM/main/evasion_general.png)  
 
 - Churn por género  
-  > Figura 2
+  > <a name="fig2"></a>  
+![Churn por tipo de contrato](https://raw.githubusercontent.com/d4vid2025/challenge2-data-science-LATAM/refs/heads/main/churn_genero.png)
 
 - Churn por tipo de servicio  
-  > Figura 3
+  > <a name="fig3"></a>  
+![Churn por tipo de contrato](https://raw.githubusercontent.com/d4vid2025/challenge2-data-science-LATAM/refs/heads/main/churn_contrato.png)
+
+<a name="fig4"></a>  
+![Churn por tipo de contrato](https://raw.githubusercontent.com/d4vid2025/challenge2-data-science-LATAM/refs/heads/main/churn_metodo_pago.png)
 
 - Distribución del total de cargos mensuales y totales  
-  > Figura 6
+  ><a name="fig6"></a>  
+![Churn por tipo de contrato](https://raw.githubusercontent.com/d4vid2025/challenge2-data-science-LATAM/refs/heads/main/churn_cuentas_totales.png)
 
 ---
 
