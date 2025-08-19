@@ -22,7 +22,8 @@ datos_limpio.sample(5)
 ### Se exploraron las siguientes dimensiones:
 
 - Distribución de Churn  
-  > Figura 1: distribución de la evasión de clientes.
+  > <a name="fig1"></a>  
+![Figura 1: Distribución de la evasión](https://raw.githubusercontent.com/d4vid2025/challenge2-data-science-LATAM/main/evasion_general.png)  
 
 - Churn por género  
   > Figura 2
